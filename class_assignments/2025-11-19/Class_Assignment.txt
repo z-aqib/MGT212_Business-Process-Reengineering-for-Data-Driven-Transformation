@@ -1,0 +1,4 @@
+Instructions
+What was the starbucks app doing in terms of process reengineering
+
+what merit functions was it optimising.
