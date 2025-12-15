@@ -1,0 +1,5 @@
+Instructions
+Please read the document.
+Please take the As-Is process, map it according to the data flows for each stage. Then define the data on the basis of which the payment is made.
+Please take the To-Be process, map it according to the data flows with the new process, Then define the data on the basis of which payment is made.
+Then write a paragraph on what the technology introduction did, the process reengineering as a consequence,
