@@ -1,0 +1,14 @@
+29 sept 25
+We will learn how to dcumnet
+Next class we have presentation
+This is a flowchart and theres data, data consists of action, who des it, what time he or she ds it
+So think of timestamps, entering, standing, placing order, make paymetn, enjoy, leave
+Can we give coffee timestamps like a human, yes, so prepare beverage, coffee made, coffee presented to customer
+So when does powder reach and when does it go out of premises
+So need to optimise this, how long did the powder stay
+Think of inventory, how long do u want the inventory to be in ur premises, ideally 0, why do u want that, cus u get moeny whne it goes out and ur moeny is not sitting on inventory
+Redo the process in the chart, and discuss how and why the reengineered process is better
+G1: minimise waiting time, 2:minimise time spent in the cafe, 3: mimise no of personnel, 4: minimise the waiting time w minimised tech, 5: ?, 6: minimise hr w minimal cost and tech
+Reflect the flowchart in an escel sheet, almost produce a simulation, excel sheet cells should have time
+Take that spreadsheet and run it, then extract understanding from it
+Fluxicon disco process mining
